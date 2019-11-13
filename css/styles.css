@@ -133,3 +133,8 @@ body {
 .donate > button.redButton {
   background-color: sienna;
 }
+
+a, a:visited, a:active, a:focus, a:any-link, a:-webkit-any-link {
+  color: white;
+  outline : none;
+}
