@@ -137,4 +137,5 @@ body {
 a, a:visited, a:active, a:focus, a:any-link, a:-webkit-any-link {
   color: white;
   outline : none;
+  text-decoration: none;
 }
