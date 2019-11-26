@@ -1,5 +1,4 @@
-function changeButton(){
-  var objButton = document.getElementById("btnDonate");
+function changeButton(objButton) {
   objButton.innerText = "Donated";
   objButton.className = "redButton";
   objButton.disabled = "disabled";
